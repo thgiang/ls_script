@@ -162,6 +162,8 @@ return function()
             SetMana()
         end
 
+        if Player:IsRecalling() then return end
+
         -- Global menu check
         if not menu then return end
 
