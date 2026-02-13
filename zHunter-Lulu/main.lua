@@ -1,0 +1,2 @@
+-- main.lua
+-- This file is intentionally left empty. Using module.lua as the entry point to prevent stack level errors.
